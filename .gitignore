@@ -1,4 +1,7 @@
 .metadata
+*.iml
+.idea/
+out/
 bin/
 tmp/
 *.tmp
